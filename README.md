@@ -43,9 +43,7 @@ For further guidance on how to incorporate screenshots into your examples, pleas
 
 
   ## [Contributing](#table-of-contents)
-  Thank you for your interest in helping out; however, I will not be accepting contributions from third parties.
-
-
+Thank you for expressing your interest in providing assistance. Regrettably, I must inform you that I am unable to accept contributions from third parties.
 
   ## [Tests](#table-of-contents)
 
