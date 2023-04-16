@@ -1,5 +1,5 @@
 
-// Function to return a message if user doesn't want contributors
+// Function/method that returns a message if user doesn't want contributors
 function renderContributingSection(confirmContributers, data) {
     if (!confirmContributers) {
       return `
