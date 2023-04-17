@@ -1,7 +1,7 @@
 {
-  "name": "practice",
+  "name": "read_about_me_9",
   "version": "1.0.0",
-  "description": "",
+  "description": "* [Description](#description)\r   * [Installation](#installation)\r   * [Usage](#usage)\r   * [Contributing](#contributing)\r   * [Tests](#tests)\r   * [Feedback](#feedback)",
   "main": "index.js",
   "scripts": {
     "start": "node server.js"
@@ -12,5 +12,15 @@
     "inquirer": "^8.2.4",
     "json": "^11.0.0",
     "mysql2": "^3.2.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skye143/Read_about_me_9.git"
+  },
+  "author": "Skye Heredia",
+  "bugs": {
+    "url": "https://github.com/skye143/Read_about_me_9/issues"
+  },
+  "homepage": "https://github.com/skye143/Read_about_me_9#readme"
 }
