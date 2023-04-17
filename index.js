@@ -1,6 +1,6 @@
 // Packages needed for this application
 const inquirer = require('inquirer');
-const generateMarkdown = require('./u/generateMarkdown.js');
+const markdown = require('./us/markdown.js');
 const fs = require('fs');
 
 
@@ -188,7 +188,7 @@ const init = () => {
 init()
 .then(readmeData => {
     console.log(readmeData);
-    return generateMarkdown(readmeData);
+    return markdown(readmeData);
 })
 .then(pageMD => {
     return writeFile(pageMD);
