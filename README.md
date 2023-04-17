@@ -39,7 +39,7 @@ Upon the completion of the installation process, execute the code 'node inex.js'
 
 For further guidance on how to incorporate screenshots into your examples, please refer to the following website:
 
-..................
+####--------------------------------------
 
 
   ## [Contributing](#table-of-contents)
