@@ -35,10 +35,6 @@ What are the steps required to install your assignment? Provide a step-by-step d
 ## Usage  
 Please furnish guidelines and examples for utilization, incorporating visual representations as deemed necessary.
 
-For further guidance on how to incorporate screenshots into your examples, please refer to the following website:
-
-####--------------------------------------
-
 
 ## Credits
 

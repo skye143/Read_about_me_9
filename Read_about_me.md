@@ -37,10 +37,6 @@ To access the application, please follow the steps outlined below:
 
 Upon the completion of the installation process, execute the code 'node inex.js' in the terminal. Proceed to answer the prompts as required, and upon completion, a console log will display your answers to the prompts. You will also receive a message indicating that your file has been created. The file will be located under the 'db' folder and is named 'generatedREADME'. The file is generated in markdown syntax, allowing for easy copying and pasting into your project.
 
-For further guidance on how to incorporate screenshots into your examples, please refer to the following website:
-
-####--------------------------------------
-
 
   ## [Contributing](#table-of-contents)
 Thank you for expressing your interest in providing assistance. Regrettably, I must inform you that I am unable to accept contributions from third parties.
