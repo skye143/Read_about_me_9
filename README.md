@@ -54,3 +54,5 @@ Thank you for expressing your interest in providing assistance. Regrettably, I m
   [LinkedIn](https://www.linkedin.com/in/skye-h-988a7a221)
 
   [Email](mailto:skyeheredia@gmail.com)
+
+  [WALKTHROUGH LINK](https://drive.google.com/file/d/1xNcEAb1nzVq-QStVXmZ77bnXpobMzZKW/view)
